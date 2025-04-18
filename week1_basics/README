@@ -1,5 +1,7 @@
-Day	    Topic	                                           Status	        Notes
-1–2	    Variables, Data types, Functions		            
-3–4	    Comprehensions, Loops, Exception Handling               
-5–6	    File handling, Modules, Imports	
-7	    Mini project (CLI Todo App)
+day_1 : Explored below concepts
+    --> default aurguments
+    --> *args and **kwargs
+day_2 :
+    --> list basics
+    --> list comprehension
+    --> zip and enumarate
