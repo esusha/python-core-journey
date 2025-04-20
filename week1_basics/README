@@ -5,3 +5,6 @@ day_2 :
     --> list basics
     --> list comprehension
     --> zip and enumarate
+day_3 :
+    --> string methods
+    --> slicing 
