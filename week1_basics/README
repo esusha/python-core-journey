@@ -8,3 +8,7 @@ day_2 :
 day_3 :
     --> string methods
     --> slicing 
+day_4 :
+    --> dict_set_tuple
+day_5 :
+    --> file handling
