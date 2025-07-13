@@ -68,4 +68,4 @@ if (length := len(my_list)) > 4:
 #Write a function that takes any number of arguments using *args and returns the sum of only even numbers.
 
 def my_list(*args):
-    return sum(args)
+    return sum(x for x in args if x%2 == 0)
